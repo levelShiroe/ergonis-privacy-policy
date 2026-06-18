@@ -48,7 +48,7 @@ Data transmitted between the app and Firebase/Google services is protected using
 
 Users may request deletion of their Ergonis account and associated app data by contacting:
 
-**eternalgames17@gmail.com**
+**ergonisofficial@proton.me**
 
 Please include the subject:
 
